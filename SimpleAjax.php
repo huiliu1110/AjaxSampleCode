@@ -64,3 +64,4 @@ function create(){
 	//insert the new employee into array
 	echo "Create a new Employee".$_POST["name"];
 }
+?>
